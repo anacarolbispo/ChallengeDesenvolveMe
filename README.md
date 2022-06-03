@@ -1,35 +1,45 @@
-# Desafio técnico
+# Desafio Técnico - Desenvolve-Me
 
-Escrever uma API de cadastro de clientes (Nome, CPF, nascimento)
+<p align="center"> 
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="EmDesenvolvimento" src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow">
+</p>
 
-**Importante:** Validar o CPF antes de gravar o cliente no banco de dados
+## 💻 Sobre
 
-## Informações técnicas
-
-### Endpoints
-- [ ]  Endpoint para criar clientes (esse endpoint deve retornar um 422 caso o cpf seja inválido)
-- [ ]  Endpoint para buscar cliente por CPF
-- [ ]  Endpoint para listar todos os clientes (usando paginação)
-
-### Para devs fullstack (desconsiderar caso seja um teste para backend)
-- [ ] Criar uma página para consumir a API
-
-#### Regras para validação do CPF
-- O CPF pode ser passado em dois formatos: 
-  - 999.999.999-00 (com máscara)
-  - 99999999900 (somente números)
-  
-- Para validação da numeração do CPF pode utilizar as regras do seguinte link: https://www.macoratti.net/alg_cpf.htm#:~:text=O%20algoritmo%20de%20valida%C3%A7%C3%A3o%20do,%3A%20111.444.777%2D05.
+Este projeto foi criado para o desafio técnico da vaga de desenvolvedor na Desenvolve-Me
 
 
-## Requisitos 
-- Escrever o algoritmo de validação do CPF manualmente (**NÃO** usar libs prontas para isso)
-- **Crie um fork desse repositório** para nos enviar o desafio
-- Utilize uma linguagem que possibilite o uso de orientação a objetos como Java, C#, Python, Javascript, etc
-- Escolha o banco de dados de sua preferência
+## 🚀 Tecnologias utilizadas
 
+O projeto foi desenvolvido utilizando as seguintes ferramentas
 
-## Recomendações
-- Lembre-se de utilizar boas práticas como: testes, orientação a objetos, design patterns, logs, documentação, etc.
-- É importante ser bem simples rodar sua aplicação em qualquer servidor (independente do sistema operacional ou outros softwres instalados). 
-- Escreva um Readme.md (explique como subir sua aplicação, tecnologias utilizadas, e como rodar os testes)
+<p> 
+  <a href="https://docs.microsoft.com/pt-br/dotnet/">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://swagger.io/">
+    <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+  </a>
+</p>
+
+## 🗂 Como baixar o projeto
+
+```bash
+
+    # Clonar o repositório
+    $ git clone https://github.com/anacarolbispo/ChallengeDesenvolveMe.git
+
+    # Instalar as dependências
+    $ npm install
+
+    # Iniciar o projeto
+    $ npm start
+```
+
+---
+
+Desenvolvido com 🧡 por Ana Carolina Bispo
