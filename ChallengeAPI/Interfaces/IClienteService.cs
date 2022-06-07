@@ -1,6 +1,6 @@
-﻿using Challenge.Models;
+﻿using ChallengeAPI.Models;
 
-namespace Challenge.Interfaces
+namespace ChallengeAPI.Interfaces
 {
     public interface IClienteService
     {

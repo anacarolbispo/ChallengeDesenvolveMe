@@ -1,6 +1,6 @@
-using Challenge.Interfaces;
-using Challenge.Models;
-using Challenge.Services;
+using ChallengeAPI.Interfaces;
+using ChallengeAPI.Models;
+using ChallengeAPI.Services;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);

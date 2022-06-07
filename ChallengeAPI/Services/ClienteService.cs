@@ -1,7 +1,7 @@
-﻿using Challenge.Interfaces;
-using Challenge.Models;
+﻿using ChallengeAPI.Interfaces;
+using ChallengeAPI.Models;
 
-namespace Challenge.Services
+namespace ChallengeAPI.Services
 {
     public class ClienteService : IClienteService
     {

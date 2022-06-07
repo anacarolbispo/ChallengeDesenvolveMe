@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Challenge.Models
+namespace ChallengeAPI.Models
 {
     public class DataContext : DbContext
     {

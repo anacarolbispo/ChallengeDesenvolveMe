@@ -1,6 +1,4 @@
-﻿using Challenge.Interfaces;
-
-namespace ChallengeTests
+﻿namespace ChallengeTests
 {
     public class ClienteServiceMock : IClienteService
     {

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Challenge.Models
+namespace ChallengeAPI.Models
 {
     public class Cliente
     {

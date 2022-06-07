@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Challenge.Models;
-using Challenge.Interfaces;
+using ChallengeAPI.Models;
+using ChallengeAPI.Interfaces;
 
-namespace Challenge.Controllers
+namespace ChallengeAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

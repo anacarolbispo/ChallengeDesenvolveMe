@@ -1,4 +1,4 @@
-﻿namespace Challenge.Interfaces
+﻿namespace ChallengeAPI.Interfaces
 {
     public interface IValidation
     {

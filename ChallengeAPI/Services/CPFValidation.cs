@@ -1,6 +1,6 @@
-﻿using Challenge.Interfaces;
+﻿using ChallengeAPI.Interfaces;
 
-namespace Challenge.Services
+namespace ChallengeAPI.Services
 {
     public class CPFValidation : IValidation
     {
