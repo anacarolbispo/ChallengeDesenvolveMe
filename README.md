@@ -52,8 +52,8 @@ $ cd ChallengeDesenvolveMe
 ### 🎲 Rodando o Back End (servidor)
                                                                                                                             
 ```bash
-# Vá para a pasta Challenge, onde está o código do backend
-$ cd Challenge
+# Vá para a pasta ChallengeApi, onde está o código do backend
+$ cd ChallengeApi
 
 # Instale as dependências
 $ dotnet build
